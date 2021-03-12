@@ -56,7 +56,7 @@ namespace NumberGuesser
                     Console.ForegroundColor = ConsoleColor.Red;
 
                     // Write out Wrong message
-                    Console.WriteLine("Wrong answer, please try again");
+                    Console.WriteLine("Wrong answer, please try again...");
 
                     // Reset Color
                     Console.ResetColor();
