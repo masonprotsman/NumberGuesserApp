@@ -1,0 +1,15 @@
+/Users/mason/Projects/NumberGuesser/bin/Debug/net5.0/NumberGuesser.deps.json
+/Users/mason/Projects/NumberGuesser/bin/Debug/net5.0/NumberGuesser.runtimeconfig.json
+/Users/mason/Projects/NumberGuesser/bin/Debug/net5.0/NumberGuesser.runtimeconfig.dev.json
+/Users/mason/Projects/NumberGuesser/bin/Debug/net5.0/NumberGuesser.dll
+/Users/mason/Projects/NumberGuesser/bin/Debug/net5.0/ref/NumberGuesser.dll
+/Users/mason/Projects/NumberGuesser/bin/Debug/net5.0/NumberGuesser.pdb
+/Users/mason/Projects/NumberGuesser/obj/Debug/net5.0/NumberGuesser.csprojAssemblyReference.cache
+/Users/mason/Projects/NumberGuesser/obj/Debug/net5.0/NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mason/Projects/NumberGuesser/obj/Debug/net5.0/NumberGuesser.AssemblyInfoInputs.cache
+/Users/mason/Projects/NumberGuesser/obj/Debug/net5.0/NumberGuesser.AssemblyInfo.cs
+/Users/mason/Projects/NumberGuesser/obj/Debug/net5.0/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/mason/Projects/NumberGuesser/obj/Debug/net5.0/NumberGuesser.dll
+/Users/mason/Projects/NumberGuesser/obj/Debug/net5.0/ref/NumberGuesser.dll
+/Users/mason/Projects/NumberGuesser/obj/Debug/net5.0/NumberGuesser.pdb
+/Users/mason/Projects/NumberGuesser/obj/Debug/net5.0/NumberGuesser.genruntimeconfig.cache
